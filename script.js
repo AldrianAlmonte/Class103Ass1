@@ -1,0 +1,41 @@
+let details = `Details,`;
+let buyAgain = ` Buy Again,`;
+let recentlyViewed = ` Recently viewed,`;
+let reviewPurchase = ` Review your Purchase,`;
+let nearYou = ` Recomendations near you,`;
+let magazineSubscriptions = ` Magazine subscriptions,`;
+let browsingHistory = ` Browsing history,`;
+let keepShoppingFor = ` Keep shopping for,`;
+let exploreMore = ` Explore more,`;
+let inspiredByYourShoppingList = ` Inspired by you,`;
+let subscriberList = ` Subscriber list,`;
+let playButton = ` Button to press play,`;
+let skipButton = ` Button to skip,`;
+let captionButton = ` Caption button,`;
+let playbackSpeed = ` Speed of video,`;
+let videoQuality = ` Resolution for video,`;
+let fullScreen = ` Turn video into full screen,`;
+let saveToWatchLater = ` Saves video to watch later playlist,`
+let dashboardView = ` different views for the dashboard,`;
+let recommendeVideos = ` and Videos recommended to you`;
+
+document.write(details);
+document.write(buyAgain);
+document.write(recentlyViewed);
+document.write(reviewPurchase);
+document.write(nearYou);
+document.write(magazineSubscriptions);
+document.write(browsingHistory);
+document.write(keepShoppingFor);
+document.write(exploreMore);
+document.write(inspiredByYourShoppingList);
+document.write(subscriberList);
+document.write(playButton);
+document.write(skipButton);
+document.write(captionButton);
+document.write(playbackSpeed);
+document.write(videoQuality);
+document.write(fullScreen);
+document.write(saveToWatchLater);
+document.write(dashboardView);
+document.write(recommendeVideos)
